@@ -24,7 +24,7 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/debian.png">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest.jpg">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl.jpg">
 
@@ -82,11 +82,11 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/river.png">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/robot.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/robot.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rocket.png">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/room.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/room.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/shibainu.jpeg">
 
