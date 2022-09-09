@@ -1,8 +1,12 @@
-# aesthetic-wallpapers
+# :sparkles: aesthetic-wallpapers :sparkles:
 
-~ My own collection of nord/aesthetic wallpapers ~
+:cyclone: My own collection of nord/aesthetic wallpapers :cyclone:
 
-All these wallpapers come from different sources like **Unixporn**, **Wallhaven**, **Reddit** and **Github**. If you are the creator of any image contact me and I will give you credits
+*All these wallpapers come from different sources like **Unixporn**, **Wallhaven**, **Reddit** and **Github**.*
+
+*If you are the creator of any image contact me and I will give you credits.*
+
+With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/abstract.jpg">
 
