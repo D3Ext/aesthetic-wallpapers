@@ -52,7 +52,7 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/moon.png">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mountains.jpg">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mountains.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto.png">
 
