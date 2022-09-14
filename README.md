@@ -32,6 +32,8 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fantasy-woods.jpg">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hands.jpg">
