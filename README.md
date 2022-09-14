@@ -10,6 +10,8 @@
 
 With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
+------------------------------------------------------------------------------------------------
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch_purple.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut.jpg">
