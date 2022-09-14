@@ -4,6 +4,8 @@
 
 *All these wallpapers come from different sources like **Unixporn**, **Wallhaven**, **Reddit** and **Github**.*
 
+*Please give me a star* :smile:
+
 *If you are the creator of any image contact me and I will give you credits.*
 
 With :heart: by **[D3Ext](https://github.com/D3Ext)**
