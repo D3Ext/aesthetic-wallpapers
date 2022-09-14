@@ -28,19 +28,31 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cron.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town-dark.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/debian.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fox.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fantasy-woods.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl.jpg">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gray-background.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hands.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hello-worlds.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-dark.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-light.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ign_colorful.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan.png">
 
@@ -55,6 +67,8 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/landscape2.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lightning.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/literal-wallpaper.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lofi.jpg">
 
@@ -88,6 +102,8 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-car.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-window.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixelart_landscape.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/planets.png">
@@ -95,6 +111,8 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/puppy.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rad_samurai.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/red-forest.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rick.jpg">
 
@@ -125,6 +143,8 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/van.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/venom.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/win-11.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven.png">
 
