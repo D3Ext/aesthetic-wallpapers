@@ -16,9 +16,13 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut.jpg">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-chan_to.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/beautiful.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-peace.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black-white-girl.png">
 
@@ -28,9 +32,13 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colorful-planets.jpg">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catppuccin-rainbow-arch.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colors.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cron.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/classic-arch.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town-dark.png">
 
