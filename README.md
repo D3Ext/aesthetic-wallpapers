@@ -116,7 +116,7 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto.png">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto_2.jpg">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto_2.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
 
