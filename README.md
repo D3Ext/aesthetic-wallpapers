@@ -12,6 +12,8 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 ------------------------------------------------------------------------------------------------
 
+## Desktop Wallpapers
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch_purple.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut.jpg">
@@ -185,6 +187,14 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-28rjj6.png">
+
+---------------------------------------------------------------------------------------------------
+
+## Mobile Wallpapers
+
+---------------------------------------------------------------------------------------------------
+
+## Live Wallpapers
 
 **If you want you can fork the repo and add more wallpapers**
 
