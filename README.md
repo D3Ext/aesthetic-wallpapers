@@ -4,6 +4,8 @@
 
 *All these wallpapers come from different sources like **Unixporn**, **Wallhaven**, **Reddit** and **Github**.*
 
+*Feel free to add your aesthetic wallpapers*
+
 *Please give me a star* :smile:
 
 *If you are the creator of any image contact me and I will give you credits.*
