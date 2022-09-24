@@ -210,6 +210,10 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-28rjj6.png">
 
+<img src="https://raw.githubusercontent.com/wxifuwu/aesthetic-wallpapers/main/images/nord_dots.png">
+
+<img src="https://raw.githubusercontent.com/wxifuwu/aesthetic-wallpapers/main/images/circuits.png">
+
 ---------------------------------------------------------------------------------------------------
 
 ## Mobile Wallpapers
