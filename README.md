@@ -200,6 +200,16 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-clouds.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-eagle.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue-black-girl.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nasa1.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/orange-planets.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-japanese-temple.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/underwater.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/vader.png">
