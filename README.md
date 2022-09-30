@@ -200,6 +200,14 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-clouds.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-mountain.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-winter.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-shanghai.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/color-waves.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-eagle.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue-black-girl.png">
@@ -231,8 +239,6 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 ---------------------------------------------------------------------------------------------------
 
 ## Mobile Wallpapers
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-spiral.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-pacman.jpg">
 
