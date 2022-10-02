@@ -321,6 +321,10 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 ## Live Wallpapers
 
+## Contributions
+
+[![D3Ext's github activity graph](https://activity-graph.herokuapp.com/graph?username=D3Ext&theme=dracula)](https://github.com/D3Ext/aesthetic-wallpapers)
+
 **If you want you can fork the repo and add more wallpapers**
 
 **If you consider this project has been useful, I would really appreciate supporting me by giving this repo a star or buying me a coffee.**
