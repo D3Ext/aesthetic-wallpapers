@@ -281,12 +281,6 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal-triangles.jpg">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-pacman.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-spiral.jpg">
-
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/needing-space.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-circle.jpg">
