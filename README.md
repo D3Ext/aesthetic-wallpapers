@@ -207,6 +207,12 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-mountain.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/elon-musk.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-car.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-katana.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-winter.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-shanghai.png">
@@ -257,8 +263,6 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cat.jpg">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/circuits.png">
-
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cliff-edge.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/coffee.jpg">
@@ -290,8 +294,6 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-circle.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-lights.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_dots.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/odysee.jpg">
 
