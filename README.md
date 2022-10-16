@@ -12,7 +12,7 @@
 
 With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
-------------------------------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
 ## Desktop Wallpapers
 
