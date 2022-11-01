@@ -281,25 +281,17 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest-bridge.jpg">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/glass-sphere.jpg">
-
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/goldfish.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/green-sun.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/holy-arch-nordic.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lake.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/leave-planet.jpg">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/linux-penguin.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal-triangles.jpg">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/holy-arch-nordic.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/needing-space.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-circle.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-lights.jpg">
 
@@ -316,10 +308,6 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-q21vkl.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/windmill.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/windoze.jpg">
-
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wolverine.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/you-got-this.jpg">
 
