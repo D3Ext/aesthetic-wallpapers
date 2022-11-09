@@ -111,8 +111,6 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/landscape2.jpg">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-shacks-nord.png">
-
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lightning.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/literal-wallpaper.png">
