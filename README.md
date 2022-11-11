@@ -4,8 +4,6 @@
 
 *All these wallpapers come from different sources like **Unixporn**, **Wallhaven**, **Reddit** and **Github**.*
 
-*Feel free to add your aesthetic wallpapers*
-
 *Please give me a star* :smile:
 
 *If you are the creator of any image contact me and I will give you credits.*
@@ -327,11 +325,23 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 ## Live Wallpapers
 
-## Contributions
+\*Comming soon\*
+
+## Statistics
 
 [![D3Ext's github activity graph](https://activity-graph.herokuapp.com/graph?username=D3Ext&theme=dracula)](https://github.com/D3Ext/aesthetic-wallpapers)
 
-**If you want you can fork the repo and add more wallpapers**
+## Contributing
+
+```1``` Fork the repo
+
+```2``` Add more wallpapers with similar style
+
+```3``` Submit pull request
+
+```4``` I revise most of the wallpapers
+
+```5``` Merge directly with main branch
 
 **If you consider this project has been useful, I would really appreciate supporting me by giving this repo a star or buying me a coffee.**
 
