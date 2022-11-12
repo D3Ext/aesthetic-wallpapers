@@ -1,17 +1,26 @@
-# :sparkles: aesthetic-wallpapers :sparkles:
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/rounded-shark.png" width="150" heigth="75" alt="Logo"/></br>
+  Aesthetic Wallpapers
+  <h5 align="center">
+    My own collection of aesthetic wallpapers<br>
+  </h5>
+</h3>
 
-:cyclone: My own collection of nord/aesthetic wallpapers :cyclone:
+<p align="center">
+  <a href="https://github.com/D3Ext/aesthetic-wallpapers/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/D3Ext/aesthetic-wallpapers?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+  <a href="https://github.com/D3Ext/aesthetic-wallpapers/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/D3Ext/aesthetic-wallpapers?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
+</p><br>
 
-*All these wallpapers come from different sources like **Unixporn**, **Wallhaven**, **Reddit** and **Github**.*
-
-*Please give me a star* :smile:
-
-*If you are the creator of any image contact me and I will give you credits.*
-
-With :heart: by **[D3Ext](https://github.com/D3Ext)**
+<p align="center">
+All these wallpapers come from different sources like Unixporn, Wallhaven, Reddit and Github.<br>
+Please give me a star :smile:<br>
+If you are the creator of any image contact me and I will give you credits.<br>
+With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext</b></a><br>
+</p><br>
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
-
 
 ## Index
 
