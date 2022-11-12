@@ -18,13 +18,12 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 - [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#desktop-wallpapers)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#live-wallpapers)
-- [Statics && Contributors](https://github.com/D3Ext/aesthetic-wallpapers/edit/main/README.md#statistics--contributors)
-- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers/edit/main/README.md#contributing)
+- [Statics && Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
+- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
 ## Desktop Wallpapers
-
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch_purple.png">
 
