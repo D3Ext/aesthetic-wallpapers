@@ -12,6 +12,17 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
+
+## Index
+
+- [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#desktop-wallpapers)
+- [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#mobile-wallpapers)
+- [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#live-wallpapers)
+- [Statics && Contributors](https://github.com/D3Ext/aesthetic-wallpapers/edit/main/README.md#statistics--contributors)
+- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers/edit/main/README.md#contributing)
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
+
 ## Desktop Wallpapers
 
 
@@ -311,7 +322,7 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/you-got-this.jpg">
 
----------------------------------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
 ## Mobile Wallpapers
 
@@ -321,13 +332,13 @@ With :heart: by **[D3Ext](https://github.com/D3Ext)**
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
 
----------------------------------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
 ## Live Wallpapers
 
-\*Comming soon\*
+\* Comming soon \*
 
-## Statistics
+## Statistics && Contributors
 
 [![D3Ext's github activity graph](https://activity-graph.herokuapp.com/graph?username=D3Ext&theme=dracula)](https://github.com/D3Ext/aesthetic-wallpapers)
 
