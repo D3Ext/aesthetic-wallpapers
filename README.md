@@ -350,6 +350,8 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 ## Statistics && Contributors
 
+[![Stargazers over time](https://starchart.cc/D3Ext/aesthetic-wallpapers.svg)](https://starchart.cc/D3Ext/aesthetic-wallpapers)
+
 [![D3Ext's github activity graph](https://activity-graph.herokuapp.com/graph?username=D3Ext&theme=dracula)](https://github.com/D3Ext/aesthetic-wallpapers)
 
 ## Contributing
