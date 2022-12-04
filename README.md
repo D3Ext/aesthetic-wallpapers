@@ -36,144 +36,216 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 ## Desktop Wallpapers
 
+tags: arch, purple
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch_purple.png">
 
+tags: space
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut.jpg">
 
+tags: system, minimal
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/alfa.png">
 
+tags: nord, girl, linux
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-chan_to.png">
 
+tags: tree, epic
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/beautiful.jpg">
 
+tags: nord
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black.jpg">
 
+tags: 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-peace.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black-white-girl.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/bunny.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/chinese.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colorful-planets.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catppuccin-rainbow-arch.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colors.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cron.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/classic-arch.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town-dark.png">
 
+tags
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/debian.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fox.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fantasy-woods.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl-on-black.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/orbit.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gray-background.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hands.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hill-house.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/light-ring.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/taza.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hello-worlds.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-dark.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-light.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ign_colorful.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/earth.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fire-skull.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fractal.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/camp_day.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/3squares.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan2.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-katana.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/jupiter.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan3.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/katana.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-shacks-nord.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/knight.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/landscape2.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lightning.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/literal-wallpaper.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lofi.jpg">
 
+
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minim.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal_landscape.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/moon.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mountains.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal-purple.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga-samurai.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/man-colors.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto_2.png">
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
+tags:
+<img src="https://raw.githubuse
+rcontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neocity.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neocity2.jpg">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neosamurai.webp">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nordic.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-street.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/onepiece.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-city.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-car.png">
 
+tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-window.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixelart_landscape.jpg">
