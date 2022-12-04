@@ -48,10 +48,10 @@ tags: `system` `minimal`
 tags: `nord` `girl` `linux`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-chan_to.png">
 
-tags: `tree` `epic`
+tags: `tree` `epic` `waterfall`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/beautiful.jpg">
 
-tags: `nord`
+tags: `nord` `knight`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black.jpg">
 
 tags: `hippie` `arch`
@@ -75,25 +75,25 @@ tags: `catpuccinn` `arch`
 tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colors.jpg">
 
-tags:
+tags: `time` `nord` `clock`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cron.png">
 
-tags:
+tags: `classic` `arch`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/classic-arch.png">
 
-tags:
+tags: `dark` `town`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town-dark.png">
 
-tags
+tags: `light` `town`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cute-town.png">
 
-tags:
+tags: `debian` `nord` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/debian.png">
 
-tags:
+tags: `forest` `fantasy`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest.png">
 
-tags:
+tags: `fox` `cute` `ramen`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fox.png">
 
 tags:
@@ -111,7 +111,7 @@ tags:
 tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gray-background.png">
 
-tags:
+tags: `black` `hands` `simple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hands.jpg">
 
 tags:
@@ -120,16 +120,16 @@ tags:
 tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/light-ring.jpg">
 
-tags:
+tags: `cup` `catpuccinn`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/taza.png">
 
 tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hello-worlds.png">
 
-tags:
+tags: `hello world` `dark` `dev`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-dark.jpg">
 
-tags:
+tags: `hello world` `light` `dev`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-light.jpg">
 
 tags:
