@@ -220,91 +220,91 @@ tags: `naruto` `red` `nord`
 tags: `river` `nature` `green`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
 
-tags:
+tags: `city` `colorful`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neocity.png">
 
-tags:
+tags: `city` `retro` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neocity2.jpg">
 
-tags:
+tags: `samurai` `lights` `city`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neosamurai.webp">
 
-tags:
+tags: `rainbow` `simple` `gray`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nordic.png">
 
-tags:
+tags: `nord` `street`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-street.png">
 
-tags:
+tags: `one piece`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/onepiece.png">
 
-tags:
+tags: `pastel` `city` `retro`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-city.png">
 
-tags:
+tags: `pastel` `car`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-car.png">
 
-tags:
+tags: `room` `chill`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-window.png">
 
-tags:
+tags: `pixels` `nature`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixelart_landscape.jpg">
 
-tags:
+tags: `earth` `gray` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixel-earth.png">
 
-tags:
+tags: `city` `moon` `stars`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixel-city.png">
 
-tags:
+tags: `planets` `animation` `space`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/planets.png">
 
-tags:
+tags: `platforms` `colors` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/platforms.png">
 
-tags:
+tags: `dog` `gray` `stars`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/puppy.jpg">
 
-tags:
+tags: `samurai` `green`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rad_samurai.jpg">
 
-tags:
+tags: `forest` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/red-forest.jpg">
 
-tags:
+tags: `rick` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rick.jpg">
 
-tags:
+tags: `river` `nature`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/river.png">
 
-tags:
+tags: `linux` `gray`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rm-rf.jpg">
 
-tags:
+tags: `robot` `beach`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/robot.jpg">
 
-tags:
+tags: `rainbow` `rocket`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rocket.png">
 
-tags:
+tags: `room` `3D`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/room.jpg">
 
-tags:
+tags: `room` `neon`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/room2.jpg">
 
-tags:
+tags: `code` `dev` `linux` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/routine.jpg">
 
-tags:
+tags: `samurai` `shiba inu`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/shibainu.jpeg">
 
-tags:
+tags: `waves` `dark` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/swirls.png">
 
-tags:
+tags: `circuit` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/tech.png">
 
-tags:
+tags: `pixel` `city` `retro`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/town.jpg">
 
 tags:
