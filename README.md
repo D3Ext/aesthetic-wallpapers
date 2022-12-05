@@ -18,6 +18,7 @@
 <p align="center">
 All these wallpapers come from different sources like Unixporn, Wallhaven, Reddit and Github.<br>
 Please give me a star :smile:<br>
+This repo is work in progress and new wallpapers are added almost everyday<br>
 If you are the creator of any image contact me and I will give you credits.<br>
 With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext</b></a><br>
 </p><br>
@@ -39,10 +40,10 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 tags: `arch` `purple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch_purple.png">
 
-tags: `space`
+tags: `space` `astronaut`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut.jpg">
 
-tags: `system` `minimal`
+tags: `system` `minimal` `circuit`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/alfa.png">
 
 tags: `nord` `girl` `linux`
@@ -72,7 +73,7 @@ tags: `planets` `nord`
 tags: `catpuccinn` `arch`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catppuccin-rainbow-arch.png">
 
-tags:
+tags: 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/colors.jpg">
 
 tags: `time` `nord` `clock`
@@ -96,67 +97,67 @@ tags: `forest` `fantasy`
 tags: `fox` `cute` `ramen`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fox.png">
 
-tags:
+tags: `forest` `fantasy`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fantasy-woods.jpg">
 
-tags:
+tags: `girl` `japan` `anime`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl.jpg">
 
-tags:
+tags: `girl` `black` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl-on-black.png">
 
-tags:
+tags: `planet` `space` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/orbit.png">
 
-tags:
+tags: `gray` `bubbles`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gray-background.png">
 
 tags: `black` `hands` `simple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hands.jpg">
 
-tags:
+tags: `hill` `house` `animation`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hill-house.png">
 
-tags:
+tags: `light` `ring`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/light-ring.jpg">
 
 tags: `cup` `catpuccinn`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/taza.png">
 
-tags:
+tags: `hello world` `C++`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/hello-worlds.png">
 
-tags: `hello world` `dark` `dev`
+tags: `localhost` `dark` `linux`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-dark.jpg">
 
-tags: `hello world` `light` `dev`
+tags: `localhost` `light` `linux`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-light.jpg">
 
-tags:
+tags: `pastel` `sand`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ign_colorful.png">
 
-tags:
+tags: `planet` `earth` `moon`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/earth.png">
 
-tags:
+tags: `skull` `fire` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fire-skull.jpg">
 
-tags:
+tags: `water` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fractal.png">
 
-tags:
+tags: `minimal` `camp` `gray`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/camp_day.png">
 
-tags:
+tags: `squares` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/3squares.png">
 
-tags:
+tags: `japan` `anime`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan.png">
 
-tags:
+tags: `samurai` `japan`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan2.jpg">
 
-tags:
+tags: `katana` `pink`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-katana.png">
 
 tags:
