@@ -307,58 +307,58 @@ tags: `circuit` `nord`
 tags: `pixel` `city` `retro`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/town.jpg">
 
-tags:
+tags: `dark` `astronaut`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/two-astronauts.png">
 
-tags:
+tags: `trees` `forests`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/trees.png">
 
-tags:
+tags: `robot` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/yellow-robot.png">
 
-tags:
+tags: `blue` `waves`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue-waves.png">
 
-tags:
+tags: `pink` `pastel`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-clouds.png">
 
-tags:
+tags: `mountain` `purple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-mountain.png">
 
-tags:
+tags: `minimal` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/elon-musk.png">
 
-tags:
+tags: `car` `neon`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-car.jpg">
 
-tags:
+tags: `nord` `winter` `snow`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-winter.png">
 
-tags:
+tags: `nord` `city` `lights`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-shanghai.png">
 
-tags:
+tags: `waves` `spectre`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/color-waves.png">
 
-tags:
+tags: `arch` `linux` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-eagle.png">
 
-tags:
+tags: `girl` `blue`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue-black-girl.png">
 
-tags:
+tags: `nasa` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nasa1.png">
 
-tags:
+tags: `orange` `planets`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/orange-planets.png">
 
-tags:
+tags: `nord` `castle` `japan`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pastel-japanese-temple.png">
 
-tags:
+tags: `water` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/underwater.png">
 
-tags:
+tags: `red` `darth vader`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/vader.png">
 
 tags:
