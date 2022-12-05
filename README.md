@@ -193,31 +193,31 @@ tags: `fantasy` `sakura` `HD`
 tags: `nord` `hunter` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minim.jpg">
 
-tags:
+tags: `snow` `light` `mountain` `landscape`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal_landscape.jpg">
 
-tags:
+tags: `moon` `gray` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/moon.png">
 
-tags:
+tags: `mountains` `colors`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mountains.png">
 
-tags:
+tags: `simple` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal-purple.jpg">
 
-tags:
+tags: `dark` `samurai`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga-samurai.png">
 
-tags:
+tags: `rainbow`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/man-colors.jpg">
 
-tags:
+tags: `naruto` `red` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto.png">
 
-tags:
+tags: `naruto` `red` `nord` 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto_2.png">
 
-tags:
+tags: `river` `nature` `green`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
 
 tags:
