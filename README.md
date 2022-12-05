@@ -160,38 +160,37 @@ tags: `samurai` `japan`
 tags: `katana` `pink`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-katana.png">
 
-tags:
+tags: `nord` `jupiter`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/jupiter.png">
 
-tags:
+tags: `japan` `epic` `tree`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan3.jpg">
 
-tags:
+tags: `anime` `katana` `girl`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/katana.jpg">
 
-tags:
+tags: `retro` `nord` `japan`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-shacks-nord.png">
 
-tags:
+tags: `knight` `pixels`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/knight.png">
 
-tags:
+tags: `landscape` `boat` `river`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/landscape2.jpg">
 
-tags:
+tags: `lightning` `gray`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lightning.jpg">
 
-tags:
+tags: `minimal` `black` `random`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/literal-wallpaper.png">
 
-tags:
+tags: `chill` `pastel` `comic`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lofi.jpg">
 
-
-tags:
+tags: `fantasy` `sakura` `HD`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga.png">
 
-tags:
+tags: `nord` `hunter` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minim.jpg">
 
 tags:
@@ -219,8 +218,7 @@ tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto_2.png">
 
 tags:
-<img src="https://raw.githubuse
-rcontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
 
 tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neocity.png">
