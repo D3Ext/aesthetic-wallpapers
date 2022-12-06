@@ -505,10 +505,13 @@ tags: `dark` `hand`
 
 ## Live Wallpapers
 
+tags: `ruins` `light` `ethereum`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ruins_live.gif">
 
+tags: `retro` `road`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro_live.gif">
 
+tags: `waves` `moon` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waves_live.gif">
 
 ## Statistics && Contributors
