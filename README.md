@@ -361,127 +361,126 @@ tags: `water` `nord`
 tags: `red` `darth vader`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/vader.png">
 
-tags:
+tags: `van` `HD`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/van.png">
 
-tags:
+tags: `venom` `dark` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/venom.jpg">
 
-tags:
+tags: `windows` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/win-11.png">
 
-tags:
+tags: `anime` `minimal` `eyes`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime-eye-nord.png">
 
-tags:
+tags: `astronaut` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-nord.png">
 
-tags:
+tags: `deer` `moon` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/deer-red-moon.png">
 
-tags:
+tags: `house` `japan` `light`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japanese-house.png">
 
-tags:
+tags: `pink` `mecha` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-mecha.png">
 
-tags:
+tags: `death` `life` `black` `white`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven.png">
 
-tags:
+tags: `neon` `road` `car`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-28rjj6.png">
 
-tags:
+tags: `colors` `dots`
 <img src="https://raw.githubusercontent.com/wxifuwu/aesthetic-wallpapers/main/images/nord_dots.png">
 
-tags:
+tags: `circuit` `gray`
 <img src="https://raw.githubusercontent.com/wxifuwu/aesthetic-wallpapers/main/images/circuits.png">
 
-tags:
+tags: `underground` `dark` `HD`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/abandoned.jpg">
 
-tags:
+tags: `flow` `green` `random`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/abstract.jpg">
 
-tags:
+tags: `girl` `colorful` `graffiti`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime-chick.jpg">
 
-tags:
+tags: `astronaut` `balloons`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-balloons.jpg">
 
-tags:
+tags: `astronaut` `planet`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-planet.jpg">
 
-tags:
+tags: `astronaut` `rocket`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-rocket.jpg">
 
-tags:
+tags: `black panther` `neon`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black-panther.jpg">
 
-tags:
+tags: `cat` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cat.jpg">
 
-tags:
+tags: `cliff` `sunset`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cliff-edge.jpg">
 
-tags:
+tags: `coffee` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/coffee.jpg">
 
-tags:
+tags: `deer` `forest`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/deer-forest.jpg">
 
-tags:
+tags: `demon`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/demon.jpg">
 
-tags:
+tags: `landscape` `bridge`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest-bridge.jpg">
 
-tags:
+tags: `goldfish` 'black'
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/goldfish.jpg">
 
-tags:
+tags: `green` `sun`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/green-sun.jpg">
 
-tags:
+tags: `lake` `sunset`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lake.jpg">
 
-tags:
+tags: `nord` `astronaut`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/leave-planet.jpg">
 
-tags:
+tags: `arch` `nord`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/holy-arch-nordic.png">
 
-tags:
+tags: `space` `planets` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/needing-space.jpg">
 
-tags:
+tags: `neon` `light` `night`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-lights.jpg">
 
-tags:
+tags: `castle` `landscape`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/odysee.jpg">
 
-tags:
+tags: `orange`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/orange-cube.jpg">
 
-tags:
+tags: `saturn` `rings` `sky` `light` `landscape`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/saturn-rings.jpg">
 
-tags:
+tags: `neon` `lights`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/staircase.jpg">
 
-tags:
+tags: `sky` `dark` `colorful`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-9mjw78.png">
 
-tags:
+tags: `tree` `sakura`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-q21vkl.jpg">
 
-tags:
+tags: `windmill` `epic` `forest`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/windmill.jpg">
 
-tags:
+tags: `dark` `hand`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/you-got-this.jpg">
 
-tags
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
 ## Mobile Wallpapers
