@@ -37,6 +37,8 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 ## Desktop Wallpapers
 
+- Use browser filter (**Ctrl + F**) to search for especific tags (i.e. *dark*)
+
 tags: `arch` `purple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch_purple.png">
 
