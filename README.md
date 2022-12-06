@@ -276,6 +276,12 @@ tags: `forest` `red`
 tags: `rick` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rick.jpg">
 
+tags: `egypt` `dark`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/egypt.png">
+
+tags: `cult` `horror` `black`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/horror_cult.jpg">
+
 tags: `river` `nature`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/river.png">
 
@@ -489,6 +495,8 @@ tags: `dark` `hand`
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-pacman.jpg">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dark_samurai_mobile.jpg">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-mobile.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
@@ -497,7 +505,11 @@ tags: `dark` `hand`
 
 ## Live Wallpapers
 
-\* Comming soon \*
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ruins_live.gif">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro_live.gif">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waves_live.gif">
 
 ## Statistics && Contributors
 
