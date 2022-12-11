@@ -17,9 +17,9 @@
 
 <p align="center">
 All these wallpapers come from different sources like Unixporn, Wallhaven, Reddit and Github.<br>
-Please give me a star :smile:<br>
 This repo is work in progress and new wallpapers are added almost everyday<br>
 If you are the creator of any image contact me and I will give you credits.<br>
+Please give me a star :smile:<br>
 With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext</b></a><br>
 </p><br>
 
@@ -488,6 +488,30 @@ tags: `windmill` `epic` `forest`
 
 tags: `dark` `hand`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/you-got-this.jpg">
+
+tags: `marvel` `antman`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Antman.jpg">
+
+tags: `marvel` `black panther`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Black-panther.jpg">
+
+tags: `4K` `groot` `marvel`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Groot.jpg">
+
+tags: `kratos` `god of war` `red`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Kratos-gow-red.jpg">
+
+tags: `spiderman` `marvel` `superhero`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Spider-man.jpg">
+
+tags: `dinosaur` `jurassic`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Jurassic-dino.jpg">
+
+tags: `dinosaur` `moon`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Trex-moon.jpg">
+
+tags: `dinosaur`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Trex.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
