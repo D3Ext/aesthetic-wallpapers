@@ -207,6 +207,24 @@ tags: `mountains` `colors`
 tags: `simple` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal-purple.jpg">
 
+tags: `cartoon` `lake` `sunny`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/art-lake.png">
+
+tags: `sunset` `australia` `rocks`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/australia.jpg">
+
+tags: `cartoon` `sunset`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/bici.jpg">
+
+tags: `shiny` `colors` `dark`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/shiny-colors.png">
+
+tags: `purple` `girl` `night`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-girl.png">
+
+tags: `nix` `dev` `dark`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nix.png">
+
 tags: `dark` `samurai`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga-samurai.png">
 
