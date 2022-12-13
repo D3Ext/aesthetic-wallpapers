@@ -566,7 +566,7 @@ tags: `waves` `moon` `red`
 
 ```1``` Fork the repo
 
-```2``` Add more wallpapers with similar style
+```2``` Add more wallpapers with similar style to the `images/` folder and add the wallpapers at the end of the README.md
 
 ```3``` Submit pull request
 
