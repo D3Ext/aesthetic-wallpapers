@@ -30,12 +30,12 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 - [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#desktop-wallpapers/pages/Desktop.md)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#mobile-wallpapers/pages/Mobile.md)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#live-wallpapers/pages/Live.md)
-- [Statics && Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
+- [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
-## Statistics && Contributors
+## Statistics & Contributors
 
 [![Stargazers over time](https://starchart.cc/D3Ext/aesthetic-wallpapers.svg)](https://starchart.cc/D3Ext/aesthetic-wallpapers)
 
