@@ -16,6 +16,7 @@ tags: `pacman`
 tags: `samurai` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dark_samurai_mobile.jpg">
 
+tags: `astronaut`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-mobile.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
