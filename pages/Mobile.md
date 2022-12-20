@@ -19,6 +19,7 @@ tags: `samurai` `dark`
 tags: `astronaut`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-mobile.png">
 
+tags: `girl`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
