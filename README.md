@@ -27,9 +27,9 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 ## Index
 
-- [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#desktop-wallpapers/pages/Desktop.md)
-- [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#mobile-wallpapers/pages/Mobile.md)
-- [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers#live-wallpapers/pages/Live.md)
+- [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Desktop.md)
+- [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md)
+- [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md)
 - [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
@@ -39,13 +39,11 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 [![Stargazers over time](https://starchart.cc/D3Ext/aesthetic-wallpapers.svg)](https://starchart.cc/D3Ext/aesthetic-wallpapers)
 
-[![D3Ext's github activity graph](https://activity-graph.herokuapp.com/graph?username=D3Ext&theme=dracula)](https://github.com/D3Ext/aesthetic-wallpapers)
-
 ## Contributing
 
 ```1``` Fork the repo
 
-```2``` Add more wallpapers with similar style to the `images/` folder and add the wallpapers at the end of the README.md
+```2``` Add more wallpapers with similar style to the `images/` folder and add the URLs at the end of the README.md
 
 ```3``` Submit pull request
 
