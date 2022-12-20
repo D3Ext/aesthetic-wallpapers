@@ -10,6 +10,7 @@
 
 Use browser filter (**Ctrl + F**) to search for especific tags (i.e. *dark*)
 
+tags: `pacman`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-pacman.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dark_samurai_mobile.jpg">
