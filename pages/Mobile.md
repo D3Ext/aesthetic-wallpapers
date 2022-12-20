@@ -22,4 +22,5 @@ tags: `astronaut`
 tags: `girl`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
 
+tags: `bar`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
