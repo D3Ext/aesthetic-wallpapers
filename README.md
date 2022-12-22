@@ -49,7 +49,7 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 ```4``` I revise most of the wallpapers
 
-```5``` Merge directly with main branch
+```5``` Create a pull request directly to the main branch
 
 **If you consider this project useful, I would really appreciate supporting me by giving this repo a star or buying me a coffee.**
 
