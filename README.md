@@ -28,6 +28,7 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 ## Index
 
 - [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Desktop.md#desktop-wallpapers)
+  - [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
 - [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
