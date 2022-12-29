@@ -410,6 +410,30 @@ tags: `astronaut` `balloons`
 tags: `astronaut` `planet`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-planet.jpg">
 
+tags:
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/aurora_v02.png">
+
+tags: `samurai` `ghost of tsushima`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/got_bw.jpg">
+
+tags: `samurai` `ghost of tsushima`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/got_red.jpg">
+
+tags: `nord` `chainsaw`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-chainsaw.png">
+
+tags: `zelda` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-princess-zelda.jpg">
+
+tags: `pacman` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pacman-nord.png">
+
+tags: `pixelart` `colors`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixelart-colors.png">
+
+tags: `virus` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/virus-nord.png">
+
 tags: `astronaut` `rocket`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-rocket.jpg">
 
