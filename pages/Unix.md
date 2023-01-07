@@ -8,6 +8,10 @@
 - [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-nord-light.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-nord-dark.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/tux-magenta-pink.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ubuntu-black-4k.png">
