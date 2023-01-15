@@ -257,6 +257,21 @@ tags: `platforms` `colors` `dark`
 tags: `dog` `gray` `stars`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/puppy.jpg">
 
+tags: `HD` `beach` `landscape`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/beach_landscape.png">
+
+tags: `gradient` `colors`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal_gradient.png">
+
+tags: `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_mask.png">
+
+tags: `pixelart` `beach`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixel_art_beach.jpeg">
+
+tags: `pixelart` `pagoda`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixelart_pagoda.jpg">
+
 tags: `samurai` `green`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rad_samurai.jpg">
 
