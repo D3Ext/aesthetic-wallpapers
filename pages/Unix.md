@@ -52,5 +52,7 @@
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nix.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fedora_snake.png">
+
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catppuccin-rainbow-arch.png">
 
