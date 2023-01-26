@@ -164,6 +164,21 @@ tags: `chill` `pastel` `comic`
 tags: `fantasy` `sakura` `HD`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga.png">
 
+tags: `car` `cyber`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cyberpunk_car.png">
+
+tags: `red` `tree`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/grey_red_tree.png">
+
+tags: `minimal` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minimal_nord_guy.png">
+
+tags: `dark` `city`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_dark_city.png">
+
+tags: `nord` `cat`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_minimal_cat.png">
+
 tags: `nord` `hunter` `minimal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minim.jpg">
 
