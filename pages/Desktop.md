@@ -293,10 +293,23 @@ tags: `samurai` `green`
 tags: `forest` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/red-forest.jpg">
 
+tags: `pagoda` `japan`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/shougan_castle.png">
+
+tags: `s4vitar` `hack4u` `hack`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/s4vitar.png">
+
+tags: `s4vitar` `hack4u` `hack`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/s4vitar_old.png">
+
+tags: `catpuccin` `cat`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catpuccin_w.png">
+
 tags: `rick` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/rick.jpg">
 
 tags: `egypt` `dark`
+</br>
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/egypt.png">
 
 tags: `cult` `horror` `black`
