@@ -221,6 +221,27 @@ tags: `astronaut` `balloons`
 tags: `astronaut` `planet`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-planet.jpg">
 
+tags: `california` `sky` 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/california.jpg">
+
+tags: `anime` `girl`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cat_anime-girl.png">
+
+tags: `catpuccin` `samurai`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catpuccin_samurai.png">
+
+tags: `rocks`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cool_rocks.png">
+
+tags: `forest` `darkness`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dark_forest.png">
+
+tags: `pixelart` `city`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixel_big_city.png">
+
+tags: `sunset` `city`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sunset_city.png">
+
 tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/aurora_v02.png">
 

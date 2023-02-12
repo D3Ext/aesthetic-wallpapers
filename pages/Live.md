@@ -3,6 +3,8 @@
 ## Index
 
 - [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Desktop.md#desktop-wallpapers)
+  - [Page 1](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page1.md)
+  - [Page 2](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page2.md)
   - [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
@@ -19,3 +21,5 @@ tags: `retro` `road`
 
 tags: `waves` `moon` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waves_live.gif">
+
+
