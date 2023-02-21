@@ -329,6 +329,21 @@ tags: `sky` `dark` `colorful`
 tags: `tree` `sakura`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-q21vkl.jpg">
 
+tags: `anime` `water` `girl`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime-water.png">
+
+tags: `blue` `red` `4k`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue-red-4k.png">
+
+tags: `minimal` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/minim-helmet.png">
+
+tags: `neon` `night` `car`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neon-car2.png">
+
+tags: `minimal` `castle`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wano_vector.png">
+
 tags: `windmill` `epic` `forest`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/windmill.jpg">
 
