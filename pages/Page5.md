@@ -1,4 +1,4 @@
-# Mobile Wallpapers
+# Desktop Wallpapers
 
 ## Index
 
@@ -20,21 +20,36 @@
 - [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
-Use browser filter (**Ctrl + F**) to search for especific tags (i.e. *dark*)
+## Page 5
 
-tags: `pacman`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-pacman.jpg">
+tags: `rainbow`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/man-colors.jpg">
 
-tags: `samurai` `dark`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dark_samurai_mobile.jpg">
+tags: `naruto` `red` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto.png">
 
-tags: `astronaut`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-mobile.png">
+tags: `naruto` `red` `nord` 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/naruto_2.png">
 
-tags: `girl`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
+tags: `river` `nature` `green`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nature.jpg">
 
-tags: `bar`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
+tags: `city` `colorful`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neocity.png">
+
+tags: `city` `retro` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neocity2.jpg">
+
+tags: `samurai` `lights` `city`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/neosamurai.webp">
+
+tags: `rainbow` `simple` `gray`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nordic.png">
+
+tags: `nord` `street`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord-street.png">
+
+tags: `one piece`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/onepiece.png">
 
 
