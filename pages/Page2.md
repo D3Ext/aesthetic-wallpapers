@@ -77,6 +77,19 @@ tags: `localhost` `dark` `linux`
 tags: `localhost` `light` `linux`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/home127-light.jpg">
 
+tags: `keyboard` `4K`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/4k-keyboard.jpg">
 
+tags: `python` `dev` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/python-dev.png">
+
+tags: `tree` `house`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/tree-house.png">
+
+tags: `maths` `trigonometry`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/trigonometry.png">
+
+tags: `dark` `blue`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallpaper3-dark.png">
 
 [Back to top](#Index)
