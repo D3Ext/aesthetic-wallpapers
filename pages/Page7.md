@@ -78,4 +78,27 @@ tags: `trees` `forests`
 tags: `robot` `dark`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/yellow-robot.png">
 
+tags: `city` `night`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/em-rofi.webp">
+
+tags: `nigth` `gas station`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/gas-station.jpg">
+
+tags: `simple` `glasses`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/glasses.png">
+
+tags: `gradient`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/gradient-pb.png">
+
+tags: `pacman` `black`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/pacman-black.png">
+
+tags: `plant`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/plant.png">
+
+tags: `geometry` `minimal`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/wallhaven-z8pdqo.jpg">
+
 [Back to top](#Index)
+
+
