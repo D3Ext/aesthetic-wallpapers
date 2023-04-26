@@ -53,5 +53,10 @@ tags: `nord` `street`
 tags: `one piece`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/onepiece.png">
 
+tags: `spiderman` `pixelart`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-j8ym1p.png">
+
+tags: `pixelart`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-nmr788.jpg">
 
 [Back to top](#Index)
