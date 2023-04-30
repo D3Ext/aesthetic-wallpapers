@@ -80,5 +80,19 @@ tags: `windows` `dark`
 tags: `anime` `minimal` `eyes`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime-eye-nord.png">
 
+tags: `car` `girl`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black_car_girl.jpg">
+
+tags: `skulls` `dark`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dark_skulls.png">
+
+tags: `lofi` `cat`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lofi_cat.png">
+
+tags: `purple` `car` `girl`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple_car_girl.png">
+
+tags: `robot`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-0qrgwr.png">
 
 [Back to top](#Index)
