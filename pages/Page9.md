@@ -80,5 +80,16 @@ tags: `forest` `darkness`
 tags: `pixelart` `city`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixel_big_city.png">
 
+tags: `anime` `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime-nord.png">
+
+tags: `pond` `anime`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime-pond.png">
+
+tags: `black` `mountain` `golden`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/golden-mountains.png">
+
+tags: `bike` `anime` `japan`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lets_go_home.png">
 
 [Back to top](#Index)
