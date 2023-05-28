@@ -20,6 +20,12 @@ tags: `samurai` `dark`
 tags: `astronaut`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/astronaut-mobile.png">
 
+tags: `dark`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/android-dark-lines.jpg">
+
+tags: `waves`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wavy_dark.png">
+
 tags: `gradient`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/mobile-gradient.png">
 

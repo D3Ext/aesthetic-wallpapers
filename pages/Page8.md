@@ -95,4 +95,19 @@ tags: `purple` `car` `girl`
 tags: `robot`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-0qrgwr.png">
 
+tags: `japan`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan_torii.png">
+
+tags: `sunset`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sunset-xfksfuywx.png">
+
+tags: `tree`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/tree-nature-castleinsky.png">
+
+tags: `green`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-x67oxo.png">
+
+tags: `waterfall`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waterfall.gif">
+
 [Back to top](#Index)

@@ -80,5 +80,25 @@ tags: `s4vitar` `hack4u` `hack`
 tags: `s4vitar` `hack4u` `hack`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/s4vitar_old.png">
 
+tags: `car`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/bmw.jpg">
+
+tags: `green`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/green-girl.jpg">
+
+tags: `gruvbox`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gruvbox_forest-4.png">
+
+tags: `gruvbox`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gruvbox_retrocity.png">
+
+tags: `gruvbox`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gruvbox_room.png">
+
+tags: `gruvbox` `witcher`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gruvbox_witcher.png">
+
+tags: `japan` `purple`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan-purple-blur.png">
 
 [Back to top](#Index)
