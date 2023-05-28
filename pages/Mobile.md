@@ -12,9 +12,11 @@
 Use browser filter (**Ctrl + F**) to search for especific tags (i.e. *dark*)
 
 tags: `pacman`
+<br/>
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-pacman.jpg">
 
 tags: `samurai` `dark`
+<br/>
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dark_samurai_mobile.jpg">
 
 tags: `astronaut`
@@ -27,7 +29,7 @@ tags: `waves`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wavy_dark.png">
 
 tags: `gradient`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/mobile-gradient.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-gradient.png">
 
 tags: `girl`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mobile-girl.jpg">
@@ -35,7 +37,6 @@ tags: `girl`
 tags: `sakura`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/android-sakura.jpg">
 
-tags: `bar`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
 
