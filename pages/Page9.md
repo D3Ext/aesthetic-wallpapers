@@ -92,4 +92,16 @@ tags: `black` `mountain` `golden`
 tags: `bike` `anime` `japan`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lets_go_home.png">
 
+tags: `purple`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/shiny_purple.png">
+
+tags: `steampunk`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/steampunk_portal.png">
+
+tags: `nord`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/towashi.jpg">
+
+tags: `wave` `dracula`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waves_dracula_flipped.png">
+
 [Back to top](#Index)
