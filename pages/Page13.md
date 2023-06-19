@@ -24,7 +24,17 @@
 
 ## Page 13
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mocha_steampunk.jpg">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mushroom-purple.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/oled-mountains.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-bomb.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-crystal.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_nebula.png">
 
 [Back to top](#Index)
 
