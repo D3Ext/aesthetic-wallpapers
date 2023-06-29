@@ -36,5 +36,17 @@
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_nebula.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/alien_planet.jpeg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dopesmoker_gruvbox.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/polar_catppuccin.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sushi_dark.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_alien_planet.jpeg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_shiny_waves.png">
+
 [Back to top](#Index)
 
