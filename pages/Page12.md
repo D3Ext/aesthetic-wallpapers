@@ -49,25 +49,25 @@ tags: `pink`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/smooth_pink.png">
 
 tags:
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/Doodle_Space_Nord.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Doodle_Space_Nord.png">
 
 tags: `japan` `city`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/japan_anime_city.jpg">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan_anime_city.jpg">
 
 tags: `pc`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/mecha-nostalgia.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mecha-nostalgia.png">
 
 tags: `plane` `sunset`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/plane_sunset.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/plane_sunset.png">
 
 tags: `planet` `minimal`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/planet_minimal.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/planet_minimal.png">
 
 tags: `train` `lake`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/train_and_lake.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/train_and_lake.png">
 
 tags: `white` `yinyang`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/white_yinyang.jpg">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/white_yinyang.jpg">
 
 [Back to top](#Index)
 
