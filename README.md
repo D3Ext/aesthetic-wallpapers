@@ -49,24 +49,15 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
-## Statistics & Contributors
+## Stargazers
 
 [![Stargazers over time](https://starchart.cc/D3Ext/aesthetic-wallpapers.svg)](https://starchart.cc/D3Ext/aesthetic-wallpapers)
 
-## Contributing
-
-```1``` Fork the repo
-
-```2``` Add more wallpapers with similar style to the `images/` folder and add the URLs at the end of the README.md
-
-```3``` Submit pull request
-
-```4``` I revise most of the wallpapers
-
-```5``` Create a pull request directly to the main branch
+## Support
 
 **If you consider this project useful, I would really appreciate supporting me by giving this repo a star or buying me a coffee.**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/d3ext)
 
-Copyright © 2022, *D3Ext*
+Copyright © 2023, *D3Ext*
+

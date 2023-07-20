@@ -69,5 +69,14 @@ tags: `train` `lake`
 tags: `white` `yinyang`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/white_yinyang.jpg">
 
+tags: `awesome` `colors`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/awesome.png">
+
+tags: `sunflowers`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/my-neighbor-totoro-sunflowers.png">
+
+tags: `gruvbox`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gruvbox_code.png">
+
 [Back to top](#Index)
 
