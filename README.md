@@ -45,7 +45,7 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
 - [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
-- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
+- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/CONTRIBUTING.md)
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
