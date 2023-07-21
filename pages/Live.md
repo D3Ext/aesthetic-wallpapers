@@ -9,7 +9,7 @@
 - [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
-Use browser filter (**Ctrl + F**) to search for especific tags (i.e. *dark*)
+Use browser filter (**Ctrl + F**) to search for specific tags (i.e. *dark*)
 
 tags: `ruins` `light` `ethereum`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ruins_live.gif">

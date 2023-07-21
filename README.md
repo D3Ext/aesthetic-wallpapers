@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/rounded-shark.png" width="150" heigth="75" alt="Logo"/></br>
   Aesthetic Wallpapers
   <h5 align="center">
-    My own collection of aesthetic wallpapers<br>
+    My collection of aesthetic wallpapers<br>
   </h5>
 </h3>
 
@@ -17,8 +17,8 @@
 
 <p align="center">
 All these wallpapers come from different sources like Unixporn, Wallhaven, Reddit and Github.<br>
-This repo is work in progress and new wallpapers are added almost everyday<br>
-If you are the creator of any image contact me and I will give you credits.<br>
+This repo is a work in progress and new wallpapers are added almost everyday<br>
+If you are the creator of any image contact me and I will give you credit.<br>
 Please give me a star :smile:<br>
 With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext</b></a><br>
 </p><br>
