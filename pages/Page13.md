@@ -48,5 +48,11 @@
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_shiny_waves.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lana_silhouette.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wave_black.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/flower_tokyo.png">
+
 [Back to top](#Index)
 
