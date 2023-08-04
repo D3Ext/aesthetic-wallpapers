@@ -41,10 +41,11 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
   - [Page 11](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page11.md)
   - [Page 12](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page12.md)
   - [Page 13](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)
+  - [Page 14](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)
 - [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
+- [Stargazers](https://github.com/D3Ext/aesthetic-wallpapers#stargazers)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/CONTRIBUTING.md)
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">

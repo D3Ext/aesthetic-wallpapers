@@ -20,4 +20,13 @@ tags: `retro` `road`
 tags: `waves` `moon` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waves_live.gif">
 
+tags: `nord` `car`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_car_live.gif">
+
+tags: `mario` `retro` `pixelart`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro2_live.gif">
+
+tags: `beach` `couple`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sunset_live.gif">
+
 

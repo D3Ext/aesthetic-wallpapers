@@ -16,42 +16,56 @@
   - [Page 11](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page11.md)
   - [Page 12](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page12.md)
   - [Page 13](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)
+  - [Page 14](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)
 - [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
-- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
 ## Page 13
 
+tags: `steampunk`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mocha_steampunk.jpg">
 
+tags: `mushroom` `purple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/mushroom-purple.png">
 
+tags: `mountains`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/oled-mountains.jpg">
 
+tags: `purple` `bomb`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-bomb.png">
 
+tags: `purple` `crystal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-crystal.png">
 
+tags: `nebula`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_nebula.png">
 
+tags: `planet`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/alien_planet.jpeg">
 
+tags: `gruvbox`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/dopesmoker_gruvbox.png">
 
+tags: `polar` `catpuccin`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/polar_catppuccin.png">
 
+tags: `sushi`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sushi_dark.png">
 
+tags: `wide` `planet`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_alien_planet.jpeg">
 
+tags: `wide` `waves`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_shiny_waves.png">
 
+tags: ``
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lana_silhouette.png">
 
+tags: `wave`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wave_black.png">
 
+tags: `flower`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/flower_tokyo.png">
 
 [Back to top](#Index)
