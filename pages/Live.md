@@ -9,7 +9,7 @@
 - [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
-Use browser filter (**Ctrl + F**) to search for especific tags (i.e. *dark*)
+Use browser filter (**Ctrl + F**) to search for specific tags (i.e. *dark*)
 
 tags: `ruins` `light` `ethereum`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ruins_live.gif">
@@ -19,5 +19,14 @@ tags: `retro` `road`
 
 tags: `waves` `moon` `red`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waves_live.gif">
+
+tags: `nord` `car`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_car_live.gif">
+
+tags: `mario` `retro` `pixelart`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro2_live.gif">
+
+tags: `beach` `couple`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sunset_live.gif">
 
 

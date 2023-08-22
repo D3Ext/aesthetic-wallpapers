@@ -16,11 +16,10 @@
   - [Page 11](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page11.md)
   - [Page 12](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page12.md)
   - [Page 13](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)
+  - [Page 14](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)
 - [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
-- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
 
 ## Page 12
 
@@ -68,6 +67,15 @@ tags: `train` `lake`
 
 tags: `white` `yinyang`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/white_yinyang.jpg">
+
+tags: `awesome` `colors`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/awesome.png">
+
+tags: `sunflowers`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/my-neighbor-totoro-sunflowers.png">
+
+tags: `gruvbox`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gruvbox_code.png">
 
 [Back to top](#Index)
 
