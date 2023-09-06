@@ -59,4 +59,8 @@ tags: `spiderman` `pixelart`
 tags: `pixelart`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-nmr788.jpg">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/python-minim.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-rrpvd7.png">
+
 [Back to top](#Index)

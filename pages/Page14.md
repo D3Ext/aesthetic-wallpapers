@@ -55,5 +55,9 @@
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/uj21s0by4v271.jpg">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/planet_with_sunrise.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fishing_stars.jpg">
+
 [Back to top](#Index)
 

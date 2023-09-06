@@ -73,4 +73,8 @@ tags: `lightning` `gray`
 
 tags: `minimal` `black` `random`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/literal-wallpaper.png">
+
+tags: `acrylic`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/acrylic.jpg">
+
 [Back to top](#Index)

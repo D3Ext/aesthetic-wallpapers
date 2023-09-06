@@ -80,6 +80,7 @@ tags: `nix` `dev` `dark`
 tags: `dark` `samurai`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga-samurai.png">
 
+tags: `tokyo`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/TokyoSimplistic.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ign_megumin_dark.png">
@@ -93,5 +94,7 @@ tags: `dark` `samurai`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-76d5xv.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallpaper_nord_1.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixiv_73483903.png">
 
 [Back to top](#Index)
