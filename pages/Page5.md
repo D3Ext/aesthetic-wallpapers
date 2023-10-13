@@ -59,8 +59,16 @@ tags: `spiderman` `pixelart`
 tags: `pixelart`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-nmr788.jpg">
 
+tags: `python`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/python-minim.png">
 
+tags: `starfield`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-rrpvd7.png">
+
+tags: `autumn`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/autumn_leaves.jpg">
+
+tags: `berserker`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/berserkdrac.png">
 
 [Back to top](#Index)

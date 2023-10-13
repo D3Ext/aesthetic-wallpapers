@@ -87,14 +87,19 @@ tags: `tokyo`
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/interstellar_wallpaper.png">
 
+tags: `girl`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_minimal_girl.png">
 
+tags: `purple` `waves`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_purple_waves.png">
 
+tags: `forest`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-76d5xv.png">
 
+tags: `nord` `pixelart`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallpaper_nord_1.png">
 
+tags: `fantasy`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixiv_73483903.png">
 
 [Back to top](#Index)

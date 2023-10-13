@@ -92,7 +92,9 @@ tags: `maths` `trigonometry`
 tags: `dark` `blue`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallpaper3-dark.png">
 
-tags:
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/36592_serial_experiments_lain.png">
+
+tags: `kyoto`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/yellow_kyoto.jpg">
 
 [Back to top](#Index)

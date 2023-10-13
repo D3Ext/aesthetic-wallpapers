@@ -77,4 +77,7 @@ tags: `minimal` `black` `random`
 tags: `acrylic`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/acrylic.jpg">
 
+tags: `demon`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue_demon.png">
+
 [Back to top](#Index)

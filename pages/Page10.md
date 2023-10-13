@@ -74,5 +74,13 @@ tags: `demon`
 tags: `landscape` `bridge`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest-bridge.jpg">
 
+tags: `wide` `skyline`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_tokyonight_skyline.jpg">
+
+tags: `anime` `cafe`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime_cafe_tokyonight.png">
+
+tags: `anime` `skyline`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/anime_skyline.png">
 
 [Back to top](#Index)
