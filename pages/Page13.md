@@ -68,5 +68,14 @@ tags: `wave`
 tags: `flower`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/flower_tokyo.png">
 
+tags: `wide` `girl`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide-girl.png">
+
+tags: `wide`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/yh.png">
+
+tags: `tiger`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/tiger-gray.jpg">
+
 [Back to top](#Index)
 

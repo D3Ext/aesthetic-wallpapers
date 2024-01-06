@@ -1,5 +1,4 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/rounded-shark.png" width="150" heigth="75" alt="Logo"/></br>
   Aesthetic Wallpapers
   <h5 align="center">
     My collection of aesthetic wallpapers<br>
@@ -60,5 +59,5 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/d3ext)
 
-Copyright © 2023, *D3Ext*
+Copyright © 2024, *D3Ext*
 

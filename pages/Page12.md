@@ -77,5 +77,11 @@ tags: `sunflowers`
 tags: `gruvbox`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/gruvbox_code.png">
 
+tags: `catpuccin`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catpuccin_landscape.png">
+
+tags: `pixelart`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/guy_sleeping_colored.png">
+
 [Back to top](#Index)
 
