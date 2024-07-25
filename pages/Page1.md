@@ -70,3 +70,4 @@ tags: `ocean` `clouds`
 
 [Back to top](#Index)
 
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page2.md)

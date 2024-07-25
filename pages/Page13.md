@@ -59,7 +59,6 @@ tags: `wide` `planet`
 tags: `wide` `waves`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_shiny_waves.png">
 
-tags: ``
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lana_silhouette.png">
 
 tags: `wave`
@@ -79,3 +78,4 @@ tags: `tiger`
 
 [Back to top](#Index)
 
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)

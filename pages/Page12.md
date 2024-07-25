@@ -85,3 +85,4 @@ tags: `pixelart`
 
 [Back to top](#Index)
 
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)

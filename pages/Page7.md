@@ -101,4 +101,4 @@ tags: `geometry` `minimal`
 
 [Back to top](#Index)
 
-
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page8.md)

@@ -98,3 +98,5 @@ tags: `kyoto`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/yellow_kyoto.jpg">
 
 [Back to top](#Index)
+
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page3.md)

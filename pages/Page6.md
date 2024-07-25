@@ -102,3 +102,5 @@ tags: `japan` `purple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/japan-purple-blur.png">
 
 [Back to top](#Index)
+
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page7.md)

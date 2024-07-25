@@ -105,3 +105,5 @@ tags: `wave` `dracula`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/waves_dracula_flipped.png">
 
 [Back to top](#Index)
+
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page10.md)

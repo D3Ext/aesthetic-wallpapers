@@ -81,3 +81,5 @@ tags: `demon`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue_demon.png">
 
 [Back to top](#Index)
+
+[Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page4.md)
