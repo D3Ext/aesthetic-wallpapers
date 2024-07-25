@@ -29,4 +29,10 @@ tags: `mario` `retro` `pixelart`
 tags: `beach` `couple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sunset_live.gif">
 
+tags: `retro` `pixelart`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro_city.gif">
+
+tags: `pixelart`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/chill.gif">
+
 
