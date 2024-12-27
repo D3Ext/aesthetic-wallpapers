@@ -17,10 +17,11 @@
   - [Page 12](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page12.md)
   - [Page 13](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)
   - [Page 14](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)
-- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
+  - [Page 15](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page15.md)
+- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md#unix-wallpapers)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#ultrawide-wallpapers)
+- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/UltraWide.md#ultrawide-wallpapers)
 
 ## Page 13
 
@@ -39,9 +40,6 @@ tags: `purple` `bomb`
 tags: `purple` `crystal`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-crystal.png">
 
-tags: `nebula`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_nebula.png">
-
 tags: `planet`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/alien_planet.jpeg">
 
@@ -54,12 +52,6 @@ tags: `polar` `catpuccin`
 tags: `sushi`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sushi_dark.png">
 
-tags: `wide` `planet`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_alien_planet.jpeg">
-
-tags: `wide` `waves`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_shiny_waves.png">
-
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/lana_silhouette.png">
 
 tags: `wave`
@@ -67,12 +59,6 @@ tags: `wave`
 
 tags: `flower`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/flower_tokyo.png">
-
-tags: `wide` `girl`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide-girl.png">
-
-tags: `wide`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/yh.png">
 
 tags: `tiger`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/tiger-gray.jpg">

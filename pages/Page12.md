@@ -17,10 +17,11 @@
   - [Page 12](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page12.md)
   - [Page 13](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)
   - [Page 14](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)
-- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
+  - [Page 15](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page15.md)
+- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md#unix-wallpapers)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#ultrawide-wallpapers)
+- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/UltraWide.md#ultrawide-wallpapers)
 
 ## Page 12
 

@@ -17,10 +17,11 @@
   - [Page 12](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page12.md)
   - [Page 13](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)
   - [Page 14](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)
-- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
+  - [Page 15](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page15.md)
+- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md#unix-wallpapers)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#ultrawide-wallpapers)
+- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/UltraWide.md#ultrawide-wallpapers)
 
 ## Page 10
 
@@ -75,14 +76,11 @@ tags: `demon`
 tags: `landscape` `bridge`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/forest-bridge.jpg">
 
-tags: `wide` `skyline`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide_tokyonight_skyline.jpg">
-
 tags: `anime` `cafe`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime_cafe_tokyonight.png">
 
 tags: `anime` `skyline`
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/images/anime_skyline.png">
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/anime_skyline.png">
 
 [Back to top](#Index)
 

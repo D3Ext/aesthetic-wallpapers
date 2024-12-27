@@ -3,11 +3,10 @@
 ## Index
 
 - [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Desktop.md#desktop-wallpapers)
-- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
+- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md#unix-wallpapers)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
-- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
+- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/UltraWide.md#ultrawide-wallpapers)
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/arch-nord-light.png">
 
@@ -58,4 +57,10 @@
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/fedora_snake.png">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/catppuccin-rainbow-arch.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Fedora1.png">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Mint1.png">
+
+[Back to top](#Index)
 

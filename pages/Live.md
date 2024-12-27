@@ -3,14 +3,10 @@
 ## Index
 
 - [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Desktop.md#desktop-wallpapers)
-- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
+- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md#unix-wallpapers)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
-- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#ultrawide-wallpapers)
-- [Statics & Contributors](https://github.com/D3Ext/aesthetic-wallpapers#statistics--contributors)
-- [Contributing](https://github.com/D3Ext/aesthetic-wallpapers#contributing)
-
-Use browser filter (**Ctrl + F**) to search for specific tags (i.e. *dark*)
+- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/UltraWide.md#ultrawide-wallpapers)
 
 tags: `ruins` `light` `ethereum`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ruins_live.gif">
@@ -36,4 +32,5 @@ tags: `retro` `pixelart`
 tags: `pixelart`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/chill.gif">
 
+[Back to top](#Index)
 

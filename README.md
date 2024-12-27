@@ -16,9 +16,8 @@
 
 <p align="center">
 All these wallpapers come from different sources like Unixporn, Wallhaven, Reddit and Github.<br>
-This repo is a work in progress and new wallpapers are added almost everyday<br>
+This repo is not completed and new wallpapers are added frequently<br>
 If you are the creator of any image contact me and I will give you credit.<br>
-Please give me a star :smile:<br>
 With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext</b></a><br>
 </p><br>
 
@@ -41,9 +40,12 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
   - [Page 12](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page12.md)
   - [Page 13](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page13.md)
   - [Page 14](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page14.md)
-- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md)
+  - [Page 15](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page15.md)
+- [Unix Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Unix.md#unix-wallpapers)
 - [Mobile Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Mobile.md#mobile-wallpapers)
 - [Live Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Live.md#live-wallpapers)
+- [UltraWide Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/UltraWide.md#ultrawide-wallpapers)
+
 - [Stargazers](https://github.com/D3Ext/aesthetic-wallpapers#stargazers)
 - [Contributing](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/CONTRIBUTING.md)
 
@@ -51,13 +53,7 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 ## Stargazers
 
-[![Stargazers over time](https://starchart.cc/D3Ext/aesthetic-wallpapers.svg)](https://starchart.cc/D3Ext/aesthetic-wallpapers)
+[![Stargazers](https://starchart.cc/D3Ext/aesthetic-wallpapers.svg)](https://starchart.cc/D3Ext/aesthetic-wallpapers)
 
-## Support
-
-**If you consider this project useful, I would really appreciate supporting me by giving this repo a star or buying me a coffee.**
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/d3ext)
-
-Copyright © 2024, *D3Ext*
+Copyright © 2025, *D3Ext*
 
