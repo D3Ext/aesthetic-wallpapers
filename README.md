@@ -23,6 +23,14 @@ With :heart: by <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
 
+## Web App
+
+Now `aesthetic-wallpapers` has a web app with a better interface to display the wallpapers. All rights to [AlexandrosLiaskos](https://github.com/AlexandrosLiaskos) for its great work. <3
+
+The web app is available on [https://alexandrosliaskos.github.io/Awesome_Wallpapers/](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/assets/bar.png">
+
 ## Index
 
 - [Desktop Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Desktop.md#desktop-wallpapers)
