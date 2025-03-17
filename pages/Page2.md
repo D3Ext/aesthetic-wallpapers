@@ -67,7 +67,7 @@ tags: `hill` `house` `animation`
 tags: `light` `ring`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/light-ring.jpg">
 
-tags: `cup` `catpuccinn`
+tags: `cup` `catpuccinn`  
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/taza.png">
 
 tags: `hello world` `C++`
