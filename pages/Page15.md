@@ -44,6 +44,14 @@ tags: `city` `night`
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/futuristicAncientTree.png">
 
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/apple_gruvbox.jpg">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/house-art.webp">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixel-waterfall.webp">
+
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/trad-waves.webp">
+
 [Back to top](#Index)
 
 [Next page](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page16.md)

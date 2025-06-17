@@ -11,6 +11,9 @@
 tags: `ruins` `light` `ethereum`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/ruins_live.gif">
 
+tags: `pixelart` `retro`
+<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/kirokaze_live.gif">
+
 tags: `retro` `road`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro_live.gif">
 
