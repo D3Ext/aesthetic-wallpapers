@@ -40,16 +40,22 @@ tags: `retro` `pixelart`
 tags: `city` `night`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/weeknd.png">
 
+tags: `geometric` `blocky` `house` `wanderer`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/a_cartoon_of_a_house_on_a_cliff.png">
 
+tags: `futuristic` `fantasy` `tree`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/futuristicAncientTree.png">
 
+tags: `rainbow` `apple`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/apple_gruvbox.jpg">
 
+tags: `twilight` `cottage` `calm`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/house-art.webp">
 
+tags: `pixelart` `waterfall`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pixel-waterfall.webp">
 
+tags: `waves` `traditional`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/trad-waves.webp">
 
 [Back to top](#Index)

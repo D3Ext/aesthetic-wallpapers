@@ -25,7 +25,7 @@
 
 ## Page 11
 
-tags: `goldfish` 'black'
+tags: `goldfish` `black`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/goldfish.jpg">
 
 tags: `green` `sun`
