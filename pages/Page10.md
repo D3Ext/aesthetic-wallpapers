@@ -28,7 +28,7 @@
 tags: `sunset` `city`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/sunset_city.png">
 
-tags:
+tags: `aurora` `glacial`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/aurora_v02.png">
 
 tags: `samurai` `ghost of tsushima`

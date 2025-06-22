@@ -49,7 +49,7 @@ tags: `blue`
 tags: `pink`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/smooth_pink.png">
 
-tags:
+tags: `cyberpunk` `megastructure`
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Doodle_Space_Nord.png">
 
 tags: `japan` `city`
